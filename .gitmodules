@@ -1,0 +1,3 @@
+[submodule "Assets/RyujuEngine.IO"]
+	path = Assets/RyujuEngine.IO
+	url = git@github.com:mezum/RyujuEngine.IO.git
